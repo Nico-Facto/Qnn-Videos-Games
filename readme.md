@@ -14,7 +14,7 @@ Unity:
 # Vidéos
  
 Merci de télécharger les vidéos pour profiter de la résolution native.
-Elles ne sont pas commentées, c'est pour l'orale.
+Elles ne sont pas commentées, c'est pour l'oral.
  
 # Jeu
 
