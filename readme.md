@@ -45,9 +45,9 @@ Les balles spéciales:
  
 Il y'a 2 réseaux de neurones sur le principe présenté dans le rapport dans la scène :
 -    La balle Jaune qui se déplace et évite les joueurs accorde 5 points. (un autre modéle, plus simple avec le processus inversé)
--    Il y'a un autre agent dans la scène qui se déplace et récupère toutes les balles positives, il n'a pas de score, si vous arrivez lui tirer dessus, il est détruit et libère toutes les balles ramassées (bon courage). C'est le model Mr.Vagiator que je réinitialise à chaque fois qu'il passe la premiére étape donc il agît en boucle.
+-    Il y'a un autre agent dans la scène qui se déplace et récupère toutes les balles positives, il n'a pas de score, si vous arrivez lui tirer dessus, il est détruit et libère toutes les balles ramassées (bon courage). C'est le model Mr.Navigator que je réinitialise à chaque fois qu'il passe la premiére étape donc il agît en boucle.
  
 Les 3 autres joueurs sont des IA classiques codés comme un genre d'action planner (GOAP).
   
-Bon le jeu souffre de bug forcément, ca présence est un bonus pour l'examin, j'ai fais en sorte que l'expérience soit confortable, pour une démonstration.
+Bon le jeu souffre de bug forcément, ca présence est un bonus pour l'examen, j'ai fais en sorte que l'expérience soit confortable, pour une démonstration.
 
