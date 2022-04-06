@@ -7,6 +7,7 @@ The Grid Sensor combines the generality of data extraction from Raycasts with th
 
 # Motivation
 
+
 In MLAgents there are 2 main sensors for observing information that is "physically" around the agent.
 
 **Raycasts**
